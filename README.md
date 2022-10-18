@@ -22,5 +22,6 @@ The idea is to look for similar patterns in movie preferences in the target user
 #Item-based collaborative filtering:
 The basic concept here is to look for similar items (movies) that target users rate or interact with.
 
-The modern approach to the movie recommendation systems implies a mix of both strategies for the most gradual and explicit results.
+![content-based_vs_collaborative_dark](https://user-images.githubusercontent.com/108415415/196456372-60fdcf7b-02d7-4bd7-bf53-39cb88455535.png)
+
 
