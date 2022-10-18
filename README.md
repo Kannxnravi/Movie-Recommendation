@@ -16,8 +16,11 @@ What’s the mechanism behind this strategy? The core element in this movie reco
 
 Collaborative filtering algorithms are divided into two categories:
 
-#-User-based collaborative filtering. The idea is to look for similar patterns in movie preferences in the target user and other users in the database.
-#-Item-based collaborative filtering. The basic concept here is to look for similar items (movies) that target users rate or interact with.
+#User-based collaborative filtering: 
+The idea is to look for similar patterns in movie preferences in the target user and other users in the database.
+
+#Item-based collaborative filtering:
+The basic concept here is to look for similar items (movies) that target users rate or interact with.
 
 The modern approach to the movie recommendation systems implies a mix of both strategies for the most gradual and explicit results.
 
